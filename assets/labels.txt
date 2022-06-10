@@ -1,0 +1,19 @@
+0 Burger
+1 Butter Naan
+2 Chapati
+3 Chole Bhature
+4 Dal Makhani
+5 Dhokla
+6 Chinese Fried Rice
+7 Idli
+8 Jalebi
+9 Kadai Paneer
+10 Kulfi
+11 Masala Dosa
+12 Momos
+13 Paani Puri
+14 Pakode
+15 Pav Bhaji 
+16 Pizza
+17 Samosa
+18 Unknown
